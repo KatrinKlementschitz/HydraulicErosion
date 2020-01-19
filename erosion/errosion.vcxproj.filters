@@ -24,10 +24,16 @@
     <ClCompile Include="PerlinNoise.cpp">
       <Filter>Perlin</Filter>
     </ClCompile>
+    <ClCompile Include="erosion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PerlinNoise.h">
       <Filter>Perlin</Filter>
+    </ClInclude>
+    <ClInclude Include="erosion.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
